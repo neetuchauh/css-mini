@@ -1,0 +1,37 @@
+//------------------CSS Mini Project-------------------
+
+    *Basic Design Principles
+            >For better looking websites
+            : color - clean, consistency
+            : typography
+
+        >color Theory - 
+            : primary - red, yellow, blue
+            : secondary - orange, green, violet
+
+            Subtle Color Combination - monochromatic
+            impactfyl color Combination - complementary
+            high contrast combination - triadic
+            https://www.canva.com/colors/color-wheel/
+
+    *Typography - for like ice-cream(fun), museum(old age), portfolio(professional)
+            >Style & Appearance of Text
+            
+            > Font Families :
+                sans-serif
+                serif
+                monospace
+                cursive
+                fantasy
+            > Google Fonts (1513)
+                https://fonts.google.com
+                just insert font link in htmla and apply in css
+            
+        >Icons -
+                https://fonts.google.com/icons
+                https://fontawesome.com/icons
+                https://cdnjs.com/libraries/font-awesome
+
+                hamburger menu icon ,
+
+        height: 100vh;  // 100 % viewport 
